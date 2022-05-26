@@ -5,7 +5,7 @@ import { CssBaseline, Grid } from "@material-ui/core";
 import Header from "./Components/Header/Header";
 import Map from "./Components/Map/Map";
 import List from "./Components/List/List";
-const app = () => {
+const App = () => {
   return (
     <>
       <CssBaseline />
@@ -22,4 +22,4 @@ const app = () => {
   );
 };
 
-export default app;
+export default App;
