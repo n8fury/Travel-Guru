@@ -1,7 +1,11 @@
 import React from "react";
 import { Autocomplete } from "@react-google-maps/api";
 import { AppBar, Toolbar, Typography, InputBase, Box } from "@material-ui/core";
+<<<<<<< HEAD
 import SearchIcon from "@material-ui/icons/Search";
+=======
+import SearchIcon from "@material-ui/icons";
+>>>>>>> 79fd84baca322392212be897efc2a667882c9412
 const Header = () => {
   <AppBar position="static">
     <Toolbar className={classes.toolbar}>
